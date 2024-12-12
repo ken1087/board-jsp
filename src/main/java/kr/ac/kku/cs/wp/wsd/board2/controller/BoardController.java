@@ -9,11 +9,9 @@ import kr.ac.kku.cs.wp.wsd.board2.dto.PostRequestDto;
 import kr.ac.kku.cs.wp.wsd.board2.model.Board;
 import kr.ac.kku.cs.wp.wsd.board2.service.BoardService;
 
-import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 
 @Controller
